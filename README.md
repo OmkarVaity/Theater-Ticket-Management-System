@@ -1,4 +1,4 @@
-# Theater-Ticket-Management-System
+# DMDD-Group13
 
 ## Accessing the Documents
 
@@ -7,6 +7,9 @@ The documents in this repository are publicly accessible and can be viewed direc
 ## Topic - `Theater Ticket Management System`
 
 ### Project Documents
+
+- **Github Repository**
+  https://github.com/patel-hetas/DMDD-Group13
 
 - **Project Proposal**
   https://docs.google.com/document/d/1nAMFkUkyCFntV_1V2W_a5mIiEVqPKtW7Kokw2cFmNk8/edit?usp=sharing
